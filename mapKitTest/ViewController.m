@@ -173,7 +173,7 @@
 }
 
 - (void)locationManager:(CLLocationManager *)manager
-       didFailWithError:(NSError *)error
+       didFailWithError:(NSError *)error  
 {
     //定位失败
     
